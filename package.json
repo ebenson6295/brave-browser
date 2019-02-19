@@ -45,7 +45,7 @@
         "repository": {
           "url": "https://github.com/brave/brave-core.git"
         },
-        "branch": "fix-linking-error-rebase"
+        "branch": "master"
       }
     },
     "widevine": {
